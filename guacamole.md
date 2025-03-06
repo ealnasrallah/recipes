@@ -5,3 +5,4 @@
 * salt
 * vodka
 ## Instructions
+1. Peel and smash avocado
